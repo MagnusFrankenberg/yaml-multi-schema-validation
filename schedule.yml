@@ -1,4 +1,20 @@
 schedule:
   program: java
+  year: '2023'
   lessons:
-    - date: "2022-02-01"
+    - date: "2023-02-01"
+      startTime: '08.00'
+      endTime: '16.00'
+      description: java introduction
+    - date: "2023-02-03"
+      startTime: '10.00'
+      endTime: '16.00'
+      description: object orientation
+    - date: "2023-02-05"
+      startTime: '10.00'
+      endTime: '16.00'
+      description: Java classes
+    - date: "2023-02-09"
+      startTime: '10.00'
+      endTime: '16.00'
+      description: Java Interfaces
