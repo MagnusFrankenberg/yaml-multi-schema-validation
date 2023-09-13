@@ -1,2 +1,9 @@
 car:
   manufacturer: volvo
+  model: Amazon
+  year: '1962'
+  attributes:
+    - blue
+    - manual gear
+    - 4 doors
+  reg: WWQ445
