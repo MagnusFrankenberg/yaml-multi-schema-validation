@@ -1,6 +1,6 @@
 computer:
   cpu:
-    manufacurer: Intel
+    manufacturer: Intel
     cores: 8
     frequency: 3.8   
   memory:
@@ -8,7 +8,7 @@ computer:
     size: 8
     type: SRAM
   disk:
-    manufacurer: HP
+    manufacturer: HP
     size: 4000
     type: SSD
         
