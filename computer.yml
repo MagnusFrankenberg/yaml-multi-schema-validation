@@ -1,3 +1,21 @@
 computer:
   cpu:
     cores: 8
+    manufacurer: Intel
+    name: Core i8
+  memory:
+    type: SRAM
+    manufacurer: Samsung
+    capacity: 4GB
+  disk:
+    interface: Sata-600
+    speed: 7200 rpm
+    manufacurer: HP
+    capacity: 4TB
+    dimensions:
+      width: 8.9
+      depth: 101.7
+      hight: 2.54
+    
+    
+    
