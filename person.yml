@@ -1,3 +1,14 @@
 person:
   name:
     first_name: Stig
+    last_name: Larsson
+  age: 35
+  class: Backend22D
+  start_year: 2022
+  hobbies:
+    - cooking
+    - biking
+    - hiking
+    - weight lifting
+    - reading
+    - sailing
